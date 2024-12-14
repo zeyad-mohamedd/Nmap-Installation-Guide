@@ -79,7 +79,7 @@ You can install Nmap on macOS using **Homebrew**, a popular package manager for 
 - Official Nmap Documentation: [https://nmap.org/docs.html](https://nmap.org/docs.html)
 - Troubleshooting and FAQs: [https://nmap.org/faq/](https://nmap.org/faq/)
 
-Enjoy exploring networks with Nmap! 🚀
+Enjoy exploring networks with Nmap 🚀
 
 
 
